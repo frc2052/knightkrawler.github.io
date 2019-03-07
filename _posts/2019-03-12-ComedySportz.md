@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 Bake Sale and ComedySportz
+title: 2019 ComedySportz FUNdraiser and Bake Sale
 date: 2019-02-12
 permalink: /2019-Comedy-Sportz/
 ---
