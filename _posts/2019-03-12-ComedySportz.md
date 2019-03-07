@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2019 ComedySportz FUNdraiser and Bake Sale
+title: 2019 ComedySportz FUNdraiser
 date: 2019-02-12
 permalink: /2019-Comedy-Sportz/
 ---
-Join the KnightKrawler's Bake Sale and see a great show with ComedySportz on Friday, April 12!
+Come see a great show with ComedySportz and join KnightKrawler's Bake Sale and on Friday, April 12!
 <br>
 <img src="/assets/images/comedysportspage1.png"/>
 <img src="/assets/images/comedysportspage2.png"/>
